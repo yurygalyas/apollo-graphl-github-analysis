@@ -1,6 +1,9 @@
 1. npm i
 2. npm start
 
+Then click query your server:
+![Logo](Screenshot%202023-11-13%20at%2022.42.44.png)
+
 Example of usage:
 
 query {

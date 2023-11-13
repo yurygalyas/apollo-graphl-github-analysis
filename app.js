@@ -262,7 +262,7 @@ const main = async () => {
 
     server.applyMiddleware({app});
 
-    const PORT = process.env.PORT || 4001;
+    const PORT = process.env.PORT || 4002;
 
     app.listen(PORT, () => {
         console.log(`Server ready at http://localhost:${PORT}${server.graphqlPath}`);
